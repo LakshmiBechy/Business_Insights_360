@@ -67,8 +67,7 @@ A Power BI dashboard was developed to provide tailored, department-specific insi
 
 ---
 
-## Live Dashboard  
-[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzg1YzczODYtNjExZC00YmNjLTgxMTAtMmJlOTlmMmU1N2UzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
+## [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzg1YzczODYtNjExZC00YmNjLTgxMTAtMmJlOTlmMmU1N2UzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
 ---
 
